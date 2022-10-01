@@ -1,0 +1,17 @@
+.button1{
+    background-color: yellow;
+    border-width: 0px;
+    border-radius: 20px;
+    width: 100px;
+    height: 45x;
+}
+.button2{
+    background-color: orange;
+    border-width: 0px;
+    border-radius: 20px;
+    width: 100px;
+    height: 45x;
+}
+body{
+    background-color: green;
+}
